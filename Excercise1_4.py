@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep  6 06:40:38 2022
-
-@author: Daniil
-"""
-
 import numpy as np
 
 import matplotlib.pyplot as plt
@@ -74,20 +67,6 @@ plt.ylim([0, 10])
 # Creating plot
 bp = ax.boxplot(data)
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
